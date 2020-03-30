@@ -1,4 +1,4 @@
-# GNNMOT
+# GNN3DMOT
 Official PyTorch Implementation for "GNN3DMOT: Graph Neural Network for 3D Multi-Object Tracking with 2D-3D Multi-Feature Learning"
 
 
